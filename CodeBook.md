@@ -23,7 +23,8 @@ Data recolected by the smartphones:
   * y_test
   * subject_train 
   * subject_test 
+
 Merged datasets:
-  * x_data 
-  * y_data 
-  * subject_data 
+  * FeatData 
+  * ActData 
+  * SubData
